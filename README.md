@@ -1,2 +1,2 @@
-# JS-AddUser-Form
-Practicing JS
+# JavaScript-AddUserForm
+Practicing Vanilla JavaScript
